@@ -24,7 +24,7 @@
 
 <a href="www.linkedin.com/in/ahmedfawzy11" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E03AQFefT8Ctyd-Fg/profile-displayphoto-shrink_800_800/B4EZNjdsOFG8Ac-/0/1732540550593?e=1740614400&v=beta&t=TDZ98TAY3J1DhNFNjyGVDQ0R3hI4VtvnA-47s0WPLF0"/></a>
 
-<a href="" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E03AQFefT8Ctyd-Fg/profile-displayphoto-shrink_800_800/B4EZNjdsOFG8Ac-/0/1732540550593?e=1740614400&v=beta&t=TDZ98TAY3J1DhNFNjyGVDQ0R3hI4VtvnA-47s0WPLF0"/></a>
+
 
 
 <a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
