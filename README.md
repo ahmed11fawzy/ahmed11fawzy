@@ -9,7 +9,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="">a</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src=""></a>
 </p> 
 
 - 🏢 I'm a Software Engineer and Front-end Web Developer 
