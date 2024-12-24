@@ -22,7 +22,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/ahmedfawzy11" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E03AQFefT8Ctyd-Fg/profile-displayphoto-shrink_800_800/B4EZNjdsOFG8Ac-/0/1732540550593?e=1740614400&v=beta&t=TDZ98TAY3J1DhNFNjyGVDQ0R3hI4VtvnA-47s0WPLF0"/></a>
+<a href="www.linkedin.com/in/ahmedfawzy11" target="_blank"><img src=""/></a>
 
 
 
