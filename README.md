@@ -22,7 +22,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/ahmedfawzy11" target="_blank"><img src="[https://img.shields.io/badge/-Ali%20Saafan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white](https://media.licdn.com/dms/image/v2/D4E03AQFefT8C…eta&t=oredytWSnI-arqBcchlZTR1SXEcgUAAeN0etrhityuI)"/></a>
+<a href="www.linkedin.com/in/ahmedfawzy11" target="_blank"><img src=""/></a>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Saafan-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
