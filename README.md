@@ -41,11 +41,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react)&nbsp;
+![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa)&nbsp;
+
 
 
 
