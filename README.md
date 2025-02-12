@@ -46,7 +46,9 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react)&nbsp;
 ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa)&nbsp;
-
+![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)&nbsp;
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha)&nbsp;
 
 
 
