@@ -22,7 +22,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/ahmedfawzy11" target="_blank"><img src="www.linkedin.com/in/ahmedfawzy11"/></a>
+<a href="www.linkedin.com/in/ahmedfawzy11" target="_blank"></a>
 
 
 
