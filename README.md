@@ -22,7 +22,8 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/ahmedfawzy11" target="_blank"></a>
+<a href="www.linkedin.com/in/ahmedfawzy11" target="_blank"><img src="https://github.com/DenverCoder1/readme-typing-svg"></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedfawzy11/)
 
 
 
