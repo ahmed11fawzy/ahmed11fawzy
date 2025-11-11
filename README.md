@@ -10,7 +10,7 @@
 
 
 
-- 🏢 I'm a Software Engineer and MERN Stack Developer 
+- 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 👨‍💻 I am a graduate of the Institute of Information Technology"ITI",Track (Front-end and Cross-Platform Mobile Developer)
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
