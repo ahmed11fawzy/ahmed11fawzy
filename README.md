@@ -4,7 +4,7 @@
 
 <h3 align="center">
   Welcome to Ahmed fawzi's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ 
 </h3>
 
 
@@ -20,9 +20,7 @@
 - 👨‍💻 Check out my portfolio at url(protofile) to see some of the projects I've worked on.
 
 
-### Connect with Me :
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedfawzy11/)
 
 
 
